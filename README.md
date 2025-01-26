@@ -1,5 +1,3 @@
-Project Description:
-
 **Enhanced Small Object Detection with YOLOv8: Advanced Machine Learning Technique for Improved Object Recognition**
 
 This project introduces a sophisticated custom implementation of the YOLOv8 object detection framework, specifically designed to address the critical challenge of detecting small objects with enhanced accuracy and precision.
