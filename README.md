@@ -19,15 +19,4 @@ Key Technical Innovations:
    - Enables fine-tuned configuration of detection sensitivity
    - Supports dynamic threshold and loss scaling parameters
 
-Core Features:
-- Configurable small object threshold (default 32 pixels)
-- Adaptive loss scaling mechanism (default scale of 2.0)
-- Comprehensive training configuration with robust data augmentation techniques
-- Flexible parameter adjustment for optimized detection performance
 
-Technical Implementation:
-- Utilizes pre-trained YOLOv8 medium model as foundational architecture
-- Integrates custom loss function and model modifications
-- Supports standard machine learning training and optimization workflows
-
-The project represents a significant advancement in addressing the persistent challenge of small object detection, offering a sophisticated, adaptable solution for machine learning practitioners and researchers.
